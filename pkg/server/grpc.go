@@ -10,7 +10,7 @@ import (
 	"github.com/jhump/protoreflect/dynamic/grpcdynamic"
 	"google.golang.org/grpc"
 
-	"github.com/danielvladco/go-proto-gql/pkg/reflection"
+	"github.com/aleksandrabanasiak/go-proto-gql/pkg/reflection"
 )
 
 type Caller interface {
