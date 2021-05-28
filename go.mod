@@ -17,5 +17,3 @@ require (
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.0.1
 	google.golang.org/protobuf v1.26.0
 )
-
-replace github.com/99designs/gqlgen v0.13.0 => github.com/danielvladco/gqlgen v0.13.0-inputs
