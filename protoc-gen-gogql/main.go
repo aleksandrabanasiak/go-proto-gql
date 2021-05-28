@@ -5,12 +5,12 @@ import (
 	"strconv"
 	"strings"
 
-	gqlpb "github.com/danielvladco/go-proto-gql/pb"
+	gqlpb "github.com/aleksandrabanasiak/go-proto-gql/pb"
 	"github.com/golang/protobuf/proto"
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/reflect/protoreflect"
 
-	"github.com/danielvladco/go-proto-gql/pkg/generator"
+	"github.com/aleksandrabanasiak/go-proto-gql/pkg/generator"
 )
 
 func main() {
